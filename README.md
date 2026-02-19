@@ -1,33 +1,35 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+  <h1 align="center">Hi there</h1>
+</p>
 
+<p align="center">
+  AI Student @ <b>UQU</b> | Exploring <b>Computer Vision</b> & <b>Deep Learning</b>
+  <br />
+  Rice enthusiast (Arch btw) | Hyprland | System Design
+</p>
 
-##  Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,py,pytorch,tensorflow,opencv,mysql,git,github,vscode,docker" />
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/Ywww.linkedin.com/in/abdullah-alhindi-983599303"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=outlook&logoColor=blue" /></a> -->
+</p>
 
-AI student exploring <b>Computer Vision</b> and <b>Deep Learning</b>.
+---
+
+<p align="center">
+<details>
+<summary align="center">⚡️ GitHub Stats</summary>
 <br />
-
-#### Rice enthusiast
-Linux | Hyprland | Arch btw
-
-
-<img src="https://skillicons.dev/icons?i=linux,arch,bash" />
-
-
-#### 🌐 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,html,mysql" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=css,html&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
-
-
-#### 🤖 AI, Machine Learning & Computer Vision
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv," />
-</p>
-
-
-#### 🛠️ Development & Productivity Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,git,github,ros,photoshop&perline=3" />
+</details>
 </p>
 
 ---
