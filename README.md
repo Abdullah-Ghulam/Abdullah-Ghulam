@@ -20,22 +20,22 @@
 
 ---
 
+
+<!--
 <p align="center">
 <details>
 <summary align="center">⚡️ GitHub Stats</summary>
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=css,html&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almo7tarif&layout=compact&hide=css,html&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Almotarif&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 </details>
 </p>
 
 ---
 
-
-<!--
 **Abdullah-Ghulam/Abdullah-Ghulam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
