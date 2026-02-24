@@ -13,8 +13,9 @@
   <img src="https://skillicons.dev/icons?i=linux,arch,py,pytorch,tensorflow,opencv,mysql,git,github,vscode,docker" />
 </p>
 
+
 <p align="center">
-  <a href="https://linkedin.com/in/abdullah-alhindi-983599303"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abdullah-ghulam/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=outlook&logoColor=blue" /></a> -->
 </p>
 
