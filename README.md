@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  AI Student @ <b>UQU</b> | Exploring <b>Computer Vision</b> & <b>Deep Learning</b>
+  AI Engineer @ <b>UQU</b> | Exploring <b>Computer Vision</b> & <b>Deep Learning</b> 
   <br />
-  Rice enthusiast (Arch btw) | Hyprland | System Design
+  Linux enthusiast (Arch btw) | Hyprland | System Design & Edge deployment
 </p>
 
 <p align="center">
